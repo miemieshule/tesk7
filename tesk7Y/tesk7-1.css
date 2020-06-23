@@ -1,0 +1,77 @@
+body{
+    background: #f0f0f0;
+}
+
+p{
+    -webkit-margin-before:0;
+    -webkit-margin-after:0;
+    margin: 0 0 10px;
+}
+
+
+.headtop{
+    display: flex; justify-content: space-between;
+    background: #5bc0de;
+}
+
+.headdiv1{
+    padding-left: 11px; line-height: 45px;
+}
+
+.maidvi1{
+    display: flex; justify-content: space-between;
+    margin: 30px;line-height: 60px;
+    border: 1px solid #999999 ; background: white;
+    font-weight: 900; font-size:18px; color: #9a9a9a;
+}
+
+.maidiv1img1{
+    padding-right: 10px;
+}
+
+.maidiv2{
+    text-align: center;
+    margin: 0px 30px;
+    border: 1px solid #c0c0c0 ;
+    background-color: white;
+}
+
+.maidiv21{
+    line-height: 60px;
+    border-bottom: 1px solid #f0ad4e ;
+    font-weight: 900; font-size:18px; color: #f0ad4e;
+}
+
+.mainbutton{
+    width: 80%; border: 0; background: #29bde0;
+    line-height: 67px; font-size: 16px; color: white;
+}
+
+.maibuttontxt{
+    line-height: 67px;
+     font-size:16px; color: #ffffff;
+}
+
+.maibuttom2{
+    display: flex; justify-content: space-between;
+}
+
+.maibuttom2logo{
+    margin-top: 18px; margin-right: 5px;
+}
+
+.maitxt{
+    margin: 13px 0  ;
+ font-size: 16px; color:#c0c0c0 ;
+}
+
+.bottomlogodiv{
+    display: flex; justify-content: center;
+}
+
+.bottomlogo{
+    margin-left: 5px; margin-right: 5px;
+    padding: 5px;
+    background: #9a9a9a; border-radius: 5px;
+}
+
